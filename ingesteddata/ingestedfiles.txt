@@ -1,0 +1,5 @@
+08/29/2021
+/home/gejun/mlops/project-4/practicedata/dataset2.csv
+/home/gejun/mlops/project-4/practicedata/dataset1.csv
+/home/gejun/mlops/project-4/sourcedata/dataset4.csv
+/home/gejun/mlops/project-4/sourcedata/dataset3.csv
